@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
   },
